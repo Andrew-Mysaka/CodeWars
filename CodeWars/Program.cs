@@ -17,6 +17,7 @@ namespace CodeWars
             // Console.WriteLine(ArrayMadness.ArrayMadness8(new int[] {4, 5, 6}, new int[] {1, 2, 3}));
             // Console.WriteLine(FirstNonConsecutive.FirstNonConsecutive8(new int[] {1, 2, 3, 4, 6, 7, 8}));
             // Console.WriteLine(IsHeGonnaSurvive.Hero(10,5));
+            // Console.WriteLine(GetDrinkByProfession.GetDrinkByProfession8("Jabroni"));
         }
     }
 }

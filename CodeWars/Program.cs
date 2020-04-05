@@ -13,6 +13,8 @@ namespace CodeWars
             // DifferenceInAges.DifferenceInAges8(new int[] {82, 15, 6, 38, 35});
             // RemoveEveryOther.RemoveEveryOther8(new object[] { "Hello", "Goodbye", "Hello Again"});
             //  Console.WriteLine("hello 133wOrld".ToAlternatingCase8());
+            // Console.WriteLine("HELLO I AM DONALD".IsUpperCase8());
+
         }
     }
 }

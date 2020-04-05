@@ -14,7 +14,8 @@ namespace CodeWars
             // RemoveEveryOther.RemoveEveryOther8(new object[] { "Hello", "Goodbye", "Hello Again"});
             //  Console.WriteLine("hello 133wOrld".ToAlternatingCase8());
             // Console.WriteLine("HELLO I AM DONALD".IsUpperCase8());
-
+            Console.WriteLine(ArrayMadness.ArrayMadness8(new int[] {4, 5, 6}, new int[] {1, 2, 3}));
+            
         }
     }
 }

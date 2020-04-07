@@ -18,6 +18,8 @@ namespace CodeWars
             // Console.WriteLine(FirstNonConsecutive.FirstNonConsecutive8(new int[] {1, 2, 3, 4, 6, 7, 8}));
             // Console.WriteLine(IsHeGonnaSurvive.Hero(10,5));
             // Console.WriteLine(GetDrinkByProfession.GetDrinkByProfession8("Jabroni"));
+            // Console.WriteLine(Watermelon.Divide(4));
+            // Console.WriteLine(TripleTrouble.TripleTrouble8("this", "test", "lock"));
         }
     }
 }

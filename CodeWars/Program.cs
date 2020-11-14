@@ -24,7 +24,7 @@ namespace CodeWars
             // Console.WriteLine(BlueAndRedMarbles.GuessBlue(5, 5, 2, 3));
             // Console.WriteLine(GetGrade.GetGrade8(60, 70, 65));
             // Console.WriteLine(Drinkin.Hydrate("5 beer, 7 vodka"));
-
+            // Console.WriteLine(Kata_8_kyu.IsItANumber.IsDigit(" 30  "));
             
         }
     }

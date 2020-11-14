@@ -6,8 +6,4 @@
     <LangVersion>8</LangVersion>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Kata 7 kyu\" />
-  </ItemGroup>
-
 </Project>

@@ -29,8 +29,8 @@ namespace CodeWars
             // Console.WriteLine(Kata_7_kyu.TwoToOne.Longest("xyaabbbccccdefww", "xxxxyyyyabklmopq"));
             // Console.WriteLine(Kata_7_kyu.AutomorphicNumber.Automorphic(6));
             // Kata_7_kyu.ArrayLeaders.ArrayLeader(new int[] { 0, -1, -29, 3, 2 });
-            Console.WriteLine(Kata_6_kyu.IsANumberPrime.IsPrime(4));
-            
+            // Console.WriteLine(Kata_6_kyu.IsANumberPrime.IsPrime(4));
+            // Console.WriteLine(Kata_7_kyu.StringEndsWith.Solution("abc", "bc"));
         }
     }
 }

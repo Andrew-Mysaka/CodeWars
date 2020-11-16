@@ -12,7 +12,7 @@ namespace CodeWars.Kata_6_kyu
 
             int maximumDividor = (int)Math.Sqrt(n) + 1;
 
-            for (int i = 2; i < maximumDividor; i++)
+            for (int i = 2; i < maximumDividor; i+=2)
             {
                 if (n % i == 0) return false;
             }
